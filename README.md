@@ -7,14 +7,21 @@ Python implementation of a basic blockchain simulation, including block structur
 
 
 
-## Access The Project
+# Access The Project
 
+## Replit Link 
+
+https://replit.com/@SumitGoyal4/BlockChain?v=1
+
+## Run Locally
 
 ```bash
 git clone https://github.com/Sumit240803/BlockChain-Impl-Python.git
 ```
 ### Pre Requisites 
+
 You need a python interpreter to run this file
+#
 ### Install Python Guide
 https://phoenixnap.com/kb/how-to-install-python-3-windows
 
